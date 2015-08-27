@@ -149,3 +149,28 @@ header {
     text-decoration: none; }
     .choise-language-block a:hover {
       text-decoration: underline; }
+
+.menu-color {
+  background-color: #1c3c4c; }
+
+.navigation {
+  text-align: center;
+  font-family: "HelveticaNeueCyrRoman", HelveticaNeueCyrRoman, sans-serif;
+  text-transform: uppercase;
+  font-size: 16px; }
+  .navigation nav {
+    display: inline-block; }
+    .navigation nav ul {
+      margin: 0 auto;
+      padding: 0;
+      display: inline-block; }
+      .navigation nav ul li {
+        display: inline-block;
+        padding: 18px 0px; }
+        .navigation nav ul li a {
+          text-align: center;
+          padding: 18px 28px;
+          text-decoration: none;
+          color: #dcccb9;
+          width: 100%;
+          height: 100%; }
