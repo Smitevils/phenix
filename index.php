@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="assets/styles/main.css">
 </head>
 <body>
-	
+	<?php include_once "assets/layouts/header.php" ?>
 	<script src="assets/scripts/js/jquery-2.1.4.min.js"></script>
 </body>
 </html>
