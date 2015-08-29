@@ -12,8 +12,7 @@
 	<?php include_once "assets/layouts/main-slider.php" ?>
 	<?php include_once "assets/layouts/header.php" ?>
 	<?php include_once "assets/layouts/menu.php" ?>
-	<?php include_once "assets/layouts/slider-controller.php" ?>
-	<?php include_once "assets/layouts/text-with-scroll.php" ?>
+	<?php include_once "assets/layouts/text-with-scroll-partners.php" ?>
 	<?php include_once "assets/layouts/footer.php" ?>
 	<script src="assets/scripts/js/jquery-2.1.4.min.js"></script>
 	<script src="assets/modules/mCustomScrollbar/jquery.mCustomScrollbar.js"></script>
