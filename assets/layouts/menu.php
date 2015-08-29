@@ -4,7 +4,7 @@
 			<div class="hamburger clearfix"></div>
 			<ul>
 				<li>
-					<a href="#">О КОМПАНИИ</a>
+					<a href="index.php">О КОМПАНИИ</a>
 				</li>
 				<li class="drop-down-menu-button">
 					<a href="#">УСЛУГИ &#9660;</a>
@@ -16,7 +16,7 @@
 							<a href="#">Ремонт, отделочные работы, реставрация</a>
 						</li>
 						<li>
-							<a href="#">Натуральный камень и благоустройство</a>
+							<a href="beautification.php">Натуральный камень и благоустройство</a>
 						</li>
 						<li>
 							<a href="#">Продажа строительных материалов</a>
@@ -24,13 +24,13 @@
 					</ul>
 				</li>
 				<li>
-					<a href="#">ПАРТНЕРАМ</a>
+					<a href="partners.php">ПАРТНЕРАМ</a>
 				</li>
 				<li>
 					<a href="#">ВАКАНСИИ</a>
 				</li>
 				<li>
-					<a href="#">КОНТАКТЫ</a>
+					<a href="contacts.php">КОНТАКТЫ</a>
 				</li>
 			</ul>
 		</nav>

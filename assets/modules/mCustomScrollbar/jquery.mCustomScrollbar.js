@@ -2370,3 +2370,5 @@ and dependencies (minified).
 
 $(".text-with-scroll-block").mCustomScrollbar();
 $(".text-with-scroll-parents-block").mCustomScrollbar();
+$(".contacts").mCustomScrollbar();
+$(".beautification").mCustomScrollbar();
